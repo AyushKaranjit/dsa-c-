@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/distance.dir/link.d CMakeFiles/distance.dir/distance.cpp.o -o distance

@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/Conversion.dir/Conversion.cpp.o -c /home/kare/Documents/dsa-c++/Conversion.cpp",
+  "file": "/home/kare/Documents/dsa-c++/Conversion.cpp",
+  "output": "CMakeFiles/Conversion.dir/Conversion.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/Helloworld.dir/Helloworld.cpp.o -c /home/kare/Documents/dsa-c++/Helloworld.cpp",
+  "file": "/home/kare/Documents/dsa-c++/Helloworld.cpp",
+  "output": "CMakeFiles/Helloworld.dir/Helloworld.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/Quote7.dir/Quote7.cpp.o -c /home/kare/Documents/dsa-c++/Quote7.cpp",
+  "file": "/home/kare/Documents/dsa-c++/Quote7.cpp",
+  "output": "CMakeFiles/Quote7.dir/Quote7.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/Temperature.dir/Temperature.cpp.o -c /home/kare/Documents/dsa-c++/Temperature.cpp",
+  "file": "/home/kare/Documents/dsa-c++/Temperature.cpp",
+  "output": "CMakeFiles/Temperature.dir/Temperature.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/Tickets.dir/Tickets.cpp.o -c /home/kare/Documents/dsa-c++/Tickets.cpp",
+  "file": "/home/kare/Documents/dsa-c++/Tickets.cpp",
+  "output": "CMakeFiles/Tickets.dir/Tickets.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/avg.dir/avg.cpp.o -c /home/kare/Documents/dsa-c++/avg.cpp",
+  "file": "/home/kare/Documents/dsa-c++/avg.cpp",
+  "output": "CMakeFiles/avg.dir/avg.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/4.0.2-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp.o -c /home/kare/Documents/dsa-c++/build/CMakeFiles/4.0.2-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "file": "/home/kare/Documents/dsa-c++/build/CMakeFiles/4.0.2-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "CMakeFiles/CMakeCXXCompilerId.dir/CMakeFiles/4.0.2-dirty/CompilerIdCXX/CMakeCXXCompilerId.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/distance.dir/distance.cpp.o -c /home/kare/Documents/dsa-c++/distance.cpp",
+  "file": "/home/kare/Documents/dsa-c++/distance.cpp",
+  "output": "CMakeFiles/distance.dir/distance.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/largeSmall.dir/largeSmall.cpp.o -c /home/kare/Documents/dsa-c++/largeSmall.cpp",
+  "file": "/home/kare/Documents/dsa-c++/largeSmall.cpp",
+  "output": "CMakeFiles/largeSmall.dir/largeSmall.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/lol.dir/lol.cpp.o -c /home/kare/Documents/dsa-c++/lol.cpp",
+  "file": "/home/kare/Documents/dsa-c++/lol.cpp",
+  "output": "CMakeFiles/lol.dir/lol.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/menu.dir/menu.cpp.o -c /home/kare/Documents/dsa-c++/menu.cpp",
+  "file": "/home/kare/Documents/dsa-c++/menu.cpp",
+  "output": "CMakeFiles/menu.dir/menu.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/numberGuess.dir/numberGuess.cpp.o -c /home/kare/Documents/dsa-c++/numberGuess.cpp",
+  "file": "/home/kare/Documents/dsa-c++/numberGuess.cpp",
+  "output": "CMakeFiles/numberGuess.dir/numberGuess.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/power.dir/power.cpp.o -c /home/kare/Documents/dsa-c++/power.cpp",
+  "file": "/home/kare/Documents/dsa-c++/power.cpp",
+  "output": "CMakeFiles/power.dir/power.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/prime.dir/prime.cpp.o -c /home/kare/Documents/dsa-c++/prime.cpp",
+  "file": "/home/kare/Documents/dsa-c++/prime.cpp",
+  "output": "CMakeFiles/prime.dir/prime.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/randomConditional.dir/randomConditional.cpp.o -c /home/kare/Documents/dsa-c++/randomConditional.cpp",
+  "file": "/home/kare/Documents/dsa-c++/randomConditional.cpp",
+  "output": "CMakeFiles/randomConditional.dir/randomConditional.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/randomNumbers.dir/randomNumbers.cpp.o -c /home/kare/Documents/dsa-c++/randomNumbers.cpp",
+  "file": "/home/kare/Documents/dsa-c++/randomNumbers.cpp",
+  "output": "CMakeFiles/randomNumbers.dir/randomNumbers.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/smallinteger.dir/smallinteger.cpp.o -c /home/kare/Documents/dsa-c++/smallinteger.cpp",
+  "file": "/home/kare/Documents/dsa-c++/smallinteger.cpp",
+  "output": "CMakeFiles/smallinteger.dir/smallinteger.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/sumInteger.dir/sumInteger.cpp.o -c /home/kare/Documents/dsa-c++/sumInteger.cpp",
+  "file": "/home/kare/Documents/dsa-c++/sumInteger.cpp",
+  "output": "CMakeFiles/sumInteger.dir/sumInteger.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/test.dir/test.cpp.o -c /home/kare/Documents/dsa-c++/test.cpp",
+  "file": "/home/kare/Documents/dsa-c++/test.cpp",
+  "output": "CMakeFiles/test.dir/test.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/testscores.dir/testscores.cpp.o -c /home/kare/Documents/dsa-c++/testscores.cpp",
+  "file": "/home/kare/Documents/dsa-c++/testscores.cpp",
+  "output": "CMakeFiles/testscores.dir/testscores.cpp.o"
+},
+{
+  "directory": "/home/kare/Documents/dsa-c++/build",
+  "command": "/usr/bin/c++    -o CMakeFiles/zerosmall.dir/zerosmall.cpp.o -c /home/kare/Documents/dsa-c++/zerosmall.cpp",
+  "file": "/home/kare/Documents/dsa-c++/zerosmall.cpp",
+  "output": "CMakeFiles/zerosmall.dir/zerosmall.cpp.o"
+}
+]

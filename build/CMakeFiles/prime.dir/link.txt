@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/prime.dir/link.d CMakeFiles/prime.dir/prime.cpp.o -o prime

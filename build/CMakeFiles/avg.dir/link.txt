@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/avg.dir/link.d CMakeFiles/avg.dir/avg.cpp.o -o avg

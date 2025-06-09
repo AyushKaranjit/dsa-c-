@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Tickets.dir/link.d CMakeFiles/Tickets.dir/Tickets.cpp.o -o Tickets

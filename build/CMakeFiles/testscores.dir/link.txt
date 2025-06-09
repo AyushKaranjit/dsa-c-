@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/testscores.dir/link.d CMakeFiles/testscores.dir/testscores.cpp.o -o testscores

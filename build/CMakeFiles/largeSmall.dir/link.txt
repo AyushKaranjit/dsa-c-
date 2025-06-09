@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/largeSmall.dir/link.d CMakeFiles/largeSmall.dir/largeSmall.cpp.o -o largeSmall

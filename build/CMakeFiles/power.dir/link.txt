@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/power.dir/link.d CMakeFiles/power.dir/power.cpp.o -o power

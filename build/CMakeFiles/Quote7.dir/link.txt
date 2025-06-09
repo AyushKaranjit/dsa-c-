@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Quote7.dir/link.d CMakeFiles/Quote7.dir/Quote7.cpp.o -o Quote7
